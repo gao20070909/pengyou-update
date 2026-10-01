@@ -1,0 +1,15 @@
+{
+  "versionName": "1.0.54",
+  "versionCode": 54,
+  "apkUrl": "https://github.com/gao20070909/pengyou-update/releases/download/v1.0.54/default.apk",
+  "size": 141674730,
+  "sha256": "6bd12381b081f3a1c3d9b2e35464dd8fd190b2590230fcd2ea4178a78f013568",
+  "forceUpdate": false,
+  "updateLog": [
+    "— 概览 · v1.0.54 —",
+    "• 新增「我的 → 检查更新」",
+    "• 微信板块底栏改微信式布局",
+    "• ＋号面板：相册 / 上下文 / 语音通话",
+    "• 打字后＋号变绿色发送键"
+  ]
+}

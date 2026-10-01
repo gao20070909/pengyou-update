@@ -5,6 +5,7 @@
   "size": 141674730,
   "sha256": "0e72463a9493c4a2a857d9edb3c3fe0efb1e72ae4386f9e0ad41961d1ecbe8d7",
   "forceUpdate": false,
+  "panUrl": "",
   "updateLog": [
     "— 概览 · v1.0.54 —",
     "• 新增「我的 → 检查更新」",
